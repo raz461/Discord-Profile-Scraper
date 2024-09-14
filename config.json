@@ -1,0 +1,15 @@
+{
+    "bot" : {
+        "token":"Your Token Here",
+        "guild":"Your Guild ID Here"
+    },
+
+    "save":{
+        "maxScrapes": 0,
+
+        "username": true,
+        "id": false,
+        "avatar": false,
+        "banner": false
+    }
+}
