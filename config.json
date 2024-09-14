@@ -8,8 +8,8 @@
         "maxScrapes": 0,
 
         "username": true,
-        "id": false,
-        "avatar": false,
-        "banner": false
+        "id": true,
+        "avatar": true,
+        "banner": true
     }
 }
