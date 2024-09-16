@@ -17,7 +17,7 @@ function log(type, text) {
 
 module.exports = {
     info: (text) => log('INFO', text),
-    error: (text) => log('ERROR', text),
+    bad: (text) => log('ERROR', text),
     success: (text) => log('SUCCESS', text),
     normal: (text) => log('NORMAL', text)
 };
